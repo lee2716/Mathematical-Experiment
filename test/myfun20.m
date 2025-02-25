@@ -1,3 +1,11 @@
+% ************************************************************************
+% Author: CONG LI
+% Date Created: 2022
+%
+% This script is part of a course project for 
+% Mathematical Experiment
+% at University of Electronic Science and Technology of China (UESTC)
+% ************************************************************************
 function x0 = myfun
 
 x = [4 4]

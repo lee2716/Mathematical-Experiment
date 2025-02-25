@@ -1,3 +1,11 @@
+% ************************************************************************
+% Author: CONG LI
+% Date Created: 2022
+%
+% This script is part of a course project for 
+% Mathematical Experiment
+% at University of Electronic Science and Technology of China (UESTC)
+% ************************************************************************
 function r=myfun4
 A =[5 0 1 1 8
     5 10 5 2 3
